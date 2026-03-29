@@ -1,4 +1,4 @@
-# html-practice-bca
+# html-practice
 
 Hi!   
 This repository contains the HTML files I created while learning Web Development as a BCA student.
